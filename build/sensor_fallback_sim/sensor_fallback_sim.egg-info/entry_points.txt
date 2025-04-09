@@ -1,0 +1,3 @@
+[console_scripts]
+node = sensor_fallback_sim.node:main
+
