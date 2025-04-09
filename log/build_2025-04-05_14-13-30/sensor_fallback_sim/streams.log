@@ -1,0 +1,40 @@
+[0.875s] Invoking command in '/home/taewook/sensor_fallback_sim': PYTHONPATH=/home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/sensor_fallback_sim build --build-base /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build install --record /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/install.log --single-version-externally-managed install_data
+[1.098s] running egg_info
+[1.099s] creating build/sensor_fallback_sim/sensor_fallback_sim.egg-info
+[1.099s] writing build/sensor_fallback_sim/sensor_fallback_sim.egg-info/PKG-INFO
+[1.099s] writing dependency_links to build/sensor_fallback_sim/sensor_fallback_sim.egg-info/dependency_links.txt
+[1.099s] writing entry points to build/sensor_fallback_sim/sensor_fallback_sim.egg-info/entry_points.txt
+[1.099s] writing requirements to build/sensor_fallback_sim/sensor_fallback_sim.egg-info/requires.txt
+[1.099s] writing top-level names to build/sensor_fallback_sim/sensor_fallback_sim.egg-info/top_level.txt
+[1.099s] writing manifest file 'build/sensor_fallback_sim/sensor_fallback_sim.egg-info/SOURCES.txt'
+[1.100s] reading manifest file 'build/sensor_fallback_sim/sensor_fallback_sim.egg-info/SOURCES.txt'
+[1.101s] writing manifest file 'build/sensor_fallback_sim/sensor_fallback_sim.egg-info/SOURCES.txt'
+[1.101s] running build
+[1.102s] running build_py
+[1.102s] creating /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build
+[1.102s] creating /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build/lib
+[1.102s] creating /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build/lib/sensor_fallback_sim
+[1.102s] copying sensor_fallback_sim/__init__.py -> /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build/lib/sensor_fallback_sim
+[1.102s] copying sensor_fallback_sim/node.py -> /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build/lib/sensor_fallback_sim
+[1.102s] copying sensor_fallback_sim/node copy.py -> /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build/lib/sensor_fallback_sim
+[1.102s] running install
+[1.102s] running install_lib
+[1.103s] creating /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages/sensor_fallback_sim
+[1.103s] copying /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build/lib/sensor_fallback_sim/__init__.py -> /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages/sensor_fallback_sim
+[1.103s] copying /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build/lib/sensor_fallback_sim/node.py -> /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages/sensor_fallback_sim
+[1.103s] copying /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build/lib/sensor_fallback_sim/node copy.py -> /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages/sensor_fallback_sim
+[1.104s] byte-compiling /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages/sensor_fallback_sim/__init__.py to __init__.cpython-310.pyc
+[1.104s] byte-compiling /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages/sensor_fallback_sim/node.py to node.cpython-310.pyc
+[1.105s] byte-compiling /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages/sensor_fallback_sim/node copy.py to node copy.cpython-310.pyc
+[1.107s] running install_data
+[1.107s] creating /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/share/ament_index
+[1.107s] creating /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/share/ament_index/resource_index
+[1.107s] creating /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/share/ament_index/resource_index/packages
+[1.107s] copying resource/sensor_fallback_sim -> /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/share/ament_index/resource_index/packages
+[1.107s] copying package.xml -> /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/share/sensor_fallback_sim
+[1.107s] running install_egg_info
+[1.109s] Copying build/sensor_fallback_sim/sensor_fallback_sim.egg-info to /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages/sensor_fallback_sim-0.0.0-py3.10.egg-info
+[1.110s] running install_scripts
+[1.134s] Installing node script to /home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/sensor_fallback_sim
+[1.134s] writing list of installed files to '/home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/install.log'
+[1.156s] Invoked command in '/home/taewook/sensor_fallback_sim' returned '0': PYTHONPATH=/home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/taewook/sensor_fallback_sim/install/sensor_fallback_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/sensor_fallback_sim build --build-base /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/build install --record /home/taewook/sensor_fallback_sim/build/sensor_fallback_sim/install.log --single-version-externally-managed install_data
